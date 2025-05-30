@@ -1,4 +1,4 @@
-# Sandstone Buckets Counter ![Active installs](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/sandstone-buckets-counter)
+# Sandstone Buckets Counter ![Active installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/sandstone-buckets-counter)
 
 A RuneLite plugin displaying how many buckets of sand you'll get from sandstone kept in the inventory/grinder.
 
